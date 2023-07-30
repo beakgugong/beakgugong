@@ -1,5 +1,5 @@
 ### Hi there 👋
-![beakgugong's github stats](https://github-readme-stats.vercel.app/api?username=beakgugong&show_icons=true)
+![beakgugong's github](https://github-readme-stats.vercel.app/api?username=beakgugong&show_icons=true)
 <!--
 **beakgugong/beakgugong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
